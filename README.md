@@ -58,7 +58,7 @@ This project enforces code quality and consistent formatting using ESLint and Pr
 To lint the code, run:
 
 ```sh
-   `npm run lint`
+   npm run lint
 ```
 
 This will identify and potentially fix any linting errors in the codebase.
